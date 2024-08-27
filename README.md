@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kayke Henrique 🧸
+## Olá! Eu sou o Kayke 😁
 ![KaykeHenrique998 GitHub stats](https://github-readme-stats.vercel.app/api?username=KaykeHenrique998&show_icons=true&theme=radical)
 
 <div style="display:      inline_block"><br/>
