@@ -1,5 +1,9 @@
 ## Olá! Eu sou o Kayke 😁
-![KaykeHenrique998 GitHub stats](https://github-readme-stats.vercel.app/api?username=KaykeHenrique998&show_icons=true&theme=radical)
+<div style="width: 200px;">
+<a href="https://github.com/KaykeHenrique998/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykeHenrique998&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 <div style="display:      inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
