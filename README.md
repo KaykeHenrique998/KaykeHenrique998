@@ -10,8 +10,7 @@
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-          
-
+## Estou aprendendo
 <div style="display:      inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt=html5 src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white >
